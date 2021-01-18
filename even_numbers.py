@@ -3,5 +3,5 @@ list1.sort()
 for num in list1:
     
     if num % 2 == 0:
-        print(num, end = " ")
-        print()
+        print(num, end = ", ")
+
